@@ -1,6 +1,5 @@
 //divide an integer by 4 without using ‘/’ operator.
 #include<iostream>
-
 using namespace std;
 
 int main()
