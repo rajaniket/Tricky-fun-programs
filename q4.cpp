@@ -1,4 +1,4 @@
-//To check for equality of two numbers without using arithmetic or comparison operator
+//check whether two numbers are equal or not without using arithmetic or comparison operator
 
 #include<iostream>
 using namespace std;
