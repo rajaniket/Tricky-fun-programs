@@ -1,4 +1,4 @@
-//Take input when number of Inputs are not given in C++.
+// Take input when number of Inputs are not given
 #include <iostream>
 using namespace std;
 int main()
