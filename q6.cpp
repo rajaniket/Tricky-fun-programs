@@ -1,4 +1,4 @@
-// CPP program to find maximum and minimum of two numbers without using loop and any condition.
+// find maximum and minimum of two numbers without using loop and any condition.
 #include<iostream>
 
 int main ()
